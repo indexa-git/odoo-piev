@@ -46,3 +46,7 @@
 	path = indexa-git/dominicana-premium
 	url = git@github.com:indexa-git/dominicana-premium.git
 	branch = 13.0
+[submodule "indexa-git/tss_report"]
+	path = indexa-git/tss_report
+	url = git@github.com:indexa-git/tss_report.git
+	branch = 13.0
