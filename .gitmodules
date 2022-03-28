@@ -1,0 +1,4 @@
+[submodule "indexa-git/account"]
+	path = indexa-git/account
+	url = git@github.com:indexa-git/account.git
+	branch = 13.0
