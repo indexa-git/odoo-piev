@@ -22,3 +22,7 @@
 	path = OCA/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
 	branch = 13.0
+[submodule "indexa-git/l10n-do-hr"]
+	path = indexa-git/l10n-do-hr
+	url = git@github.com:indexa-git/l10n-do-hr.git
+	branch = 13.0
