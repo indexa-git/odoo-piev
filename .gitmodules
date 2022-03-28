@@ -26,3 +26,7 @@
 	path = indexa-git/l10n-do-hr
 	url = git@github.com:indexa-git/l10n-do-hr.git
 	branch = 13.0
+[submodule "indexa-git/dominican-bank-statement"]
+	path = indexa-git/dominican-bank-statement
+	url = git@github.com:indexa-git/dominican-bank-statement.git
+	branch = 13.0
