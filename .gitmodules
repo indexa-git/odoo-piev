@@ -10,3 +10,7 @@
 	path = camptocamp/odoo-cloud-platform
 	url = git@github.com:camptocamp/odoo-cloud-platform.git
 	branch = 13.0
+[submodule "indexa-git/account-bank-charge-import"]
+	path = indexa-git/account-bank-charge-import
+	url = git@github.com:indexa-git/account-bank-charge-import.git
+	branch = 13.0
