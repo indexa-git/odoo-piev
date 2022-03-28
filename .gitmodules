@@ -62,3 +62,7 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 13.0
+[submodule "indexa-git/web"]
+	path = indexa-git/web
+	url = git@github.com:indexa-git/web.git
+	branch = 13.0
