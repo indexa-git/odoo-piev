@@ -70,3 +70,7 @@
 	path = indexa-git/currency-addons
 	url = git@github.com:indexa-git/currency-addons.git
 	branch = 13.0
+[submodule "indexa-git/l10n-do-banks-features"]
+	path = indexa-git/l10n-do-banks-features
+	url = git@github.com:indexa-git/l10n-do-banks-features.git
+	branch = 13.0
