@@ -14,3 +14,7 @@
 	path = indexa-git/account-bank-charge-import
 	url = git@github.com:indexa-git/account-bank-charge-import.git
 	branch = 13.0
+[submodule "indexa-git/external-service-addons"]
+	path = indexa-git/external-service-addons
+	url = git@github.com:indexa-git/external-service-addons.git
+	branch = 13.0
