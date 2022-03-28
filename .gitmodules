@@ -2,3 +2,7 @@
 	path = indexa-git/account
 	url = git@github.com:indexa-git/account.git
 	branch = 13.0
+[submodule "odoo-dominicana/l10n-dominicana"]
+	path = odoo-dominicana/l10n-dominicana
+	url = git@github.com:odoo-dominicana/l10n-dominicana.git
+	branch = 13.0
