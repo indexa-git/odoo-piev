@@ -78,3 +78,7 @@
 	path = indexa-git/l10n_do_hr_payroll
 	url = git@github.com:indexa-git/l10n_do_hr_payroll.git
 	branch = 13.0
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 13.0
