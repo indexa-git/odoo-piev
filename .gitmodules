@@ -6,3 +6,7 @@
 	path = odoo-dominicana/l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
 	branch = 13.0
+[submodule "camptocamp/odoo-cloud-platform"]
+	path = camptocamp/odoo-cloud-platform
+	url = git@github.com:camptocamp/odoo-cloud-platform.git
+	branch = 13.0
