@@ -66,3 +66,7 @@
 	path = indexa-git/web
 	url = git@github.com:indexa-git/web.git
 	branch = 13.0
+[submodule "indexa-git/currency-addons"]
+	path = indexa-git/currency-addons
+	url = git@github.com:indexa-git/currency-addons.git
+	branch = 13.0
