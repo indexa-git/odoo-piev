@@ -34,3 +34,7 @@
 	path = indexa-git/account-payment
 	url = git@github.com:indexa-git/account-payment.git
 	branch = 13.0
+[submodule "indexa-git/odoo-construction"]
+	path = indexa-git/odoo-construction
+	url = git@github.com:indexa-git/odoo-construction.git
+	branch = 13.0
