@@ -54,3 +54,7 @@
 	path = indexa-git/l10n-do-fiscal-features
 	url = git@github.com:indexa-git/l10n-do-fiscal-features.git
 	branch = 13.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 13.0
