@@ -38,3 +38,7 @@
 	path = indexa-git/odoo-construction
 	url = git@github.com:indexa-git/odoo-construction.git
 	branch = 13.0
+[submodule "indexa-git/partner-contact"]
+	path = indexa-git/partner-contact
+	url = git@github.com:indexa-git/partner-contact.git
+	branch = 13.0
