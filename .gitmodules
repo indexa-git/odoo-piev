@@ -30,3 +30,7 @@
 	path = indexa-git/dominican-bank-statement
 	url = git@github.com:indexa-git/dominican-bank-statement.git
 	branch = 13.0
+[submodule "indexa-git/account-payment"]
+	path = indexa-git/account-payment
+	url = git@github.com:indexa-git/account-payment.git
+	branch = 13.0
